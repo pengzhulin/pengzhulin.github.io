@@ -1,15 +1,15 @@
----
+<img width="145" alt="pengzhu_photo" src="https://github.com/user-attachments/assets/179ef2ec-89a0-4539-89ed-97da6b9a2079" />---
 layout: page
 title: "Home"
 class: home
 ---
 
-# Hi, I'm Dominik Moritz
+# Hi, I'm Pengzhu Lin
 
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1">
-I'm a professor at the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) and an ML researcher at [Apple](https://www.apple.com/) <i class="fab fa-apple"></i>. I design and build interactive systems for visualization and analysis. At CMU, I co-lead the [Data Interaction Group](https://dig.cmu.edu/). [Read this]({% post_url 2024-11-20-phd-application %}) if you want to apply for a PhD with me.
+I'm a post-doctoral fellow at the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) and an ML researcher at [Apple](https://www.apple.com/) <i class="fab fa-apple"></i>. I design and build interactive systems for visualization and analysis. At CMU, I co-lead the [Data Interaction Group](https://dig.cmu.edu/). [Read this]({% post_url 2024-11-20-phd-application %}) if you want to apply for a PhD with me.
 
 I received my PhD from the [Paul G. Allen School](https://www.cs.washington.edu/) at the [University of Washington](https://www.washington.edu/), where I worked with [Jeff Heer](https://homes.cs.washington.edu/~jheer/) and [Bill Howe](https://homes.cs.washington.edu/~billhowe/) in the [Interactive Data Lab](http://idl.cs.washington.edu/) and the [Database Group](https://db.cs.washington.edu/).
 
@@ -22,8 +22,8 @@ Find me on [GitHub](https://github.com/domoritz), the [Fediverse](https://vis.so
 <picture>
   <source srcset='/images/dominik_cmu.avif' type='image/avif' />
   <img
-    src='/images/dominik_cmu.jpg'
-    alt='Dominik Moritz'>
+    src='/images/pengzhu_photo.png'
+    alt='Pengzhu Lin'>
 </picture>
 
 {:.no-list}
