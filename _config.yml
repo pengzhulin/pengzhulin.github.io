@@ -1,16 +1,16 @@
 # Site settings
-title: Dominik Moritz
-email: domoritz@cmu.edu
+title: Pengzhu Lin
+email: plinai@connect.ust.hk
 description: > # this means to ignore newlines until "baseurl:"
-   Professor at Carnegie Mellon University and Researcher at Apple. I create interactive data visualization and analysis tools. PhD from University of Washington.
+   Postdoctoral fellow at the Hong Kong University of Science and Technology. Ph.D. from HKUST| M.Eng. and B.Eng. from HUST
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.domoritz.de" # the base hostname & protocol for your site
 production_url: "https://www.domoritz.de"
-github_username: domoritz
+github_username: pengzhulin
 permalink: /blog/:year/:month/:title.html
 
 twitter:
-  username: domoritz
+  username: pengzhulin
 
 sass:
   style: compressed
