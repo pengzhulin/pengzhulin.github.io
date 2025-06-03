@@ -2,10 +2,10 @@
 title: Pengzhu Lin
 email: plinai@connect.ust.hk
 description: > # this means to ignore newlines until "baseurl:"
-   Postdoctoral fellow at the Hong Kong University of Science and Technology. Ph.D. from HKUST| M.Eng. and B.Eng. from HUST
+   Ph.D. from HKUST, 2024| M.S. & B.S. from HUST, 2020 & 2017
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.domoritz.de" # the base hostname & protocol for your site
-production_url: "https://www.domoritz.de"
+url: "https://www.pengzhulin.top" # the base hostname & protocol for your site
+production_url: "https://www.pengzhulin.top"
 github_username: pengzhulin
 permalink: /blog/:year/:month/:title.html
 
