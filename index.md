@@ -24,7 +24,7 @@ Find me on [GitHub](https://github.com/domoritz), the [Fediverse](https://vis.so
   <source srcset='/images/pengzhu_photo.png' type='image/png' />
   <img
     src='/images/dominik_cmu.jpg'
-    alt='Pengzhu Lin'>
+    alt='Dominik Moritz'>
 </picture>
 
 {:.no-list}
