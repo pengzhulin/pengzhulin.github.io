@@ -1,4 +1,4 @@
-- title: Mosaic
+- title: Test1
   url: https://idl.uw.edu/mosaic/
   code: https://github.com/uwdata/mosaic
   paper: https://www.domoritz.de/papers/2023-Mosaic-VIS.pdf
@@ -6,7 +6,7 @@
   description: "Mosaic is an extensible framework for linking databases and interactive views."
   highlight: 2
 
-- title: Swift Charts
+- title: Tested2
   url: https://developer.apple.com/documentation/Charts
   video: https://developer.apple.com/wwdc22/10136
   image: swiftcharts.png
