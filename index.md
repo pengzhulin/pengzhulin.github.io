@@ -10,9 +10,9 @@ class: home
 
 <div class="intro" markdown="1">
 Dr. Pengzhu Lin is a post-doctoral fellow at the Hong Kong University of Science and Technology currently.  He received his Ph.D. in Mechanical Engineering from the Hong Kong University of Science and Technology in 2024, and his M.S. and B.S. from Huazhong University of Science and Technology in 2020 and 2017. His research focuses on heat and mass transfer, energy storage, energy conversion, such as fuel cells and batteries, combining with artificial intelligence. He has published papers on top journals including ACS Energy Letters, Applied Energy, International Journal of Heat and Mass transfer, etc.
-<!-- I'm a post-doctoral fellow at the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) and an ML researcher at [Apple](https://www.apple.com/) <i class="fab fa-apple"></i>. I design and build interactive systems for visualization and analysis. At CMU, I co-lead the [Data Interaction Group](https://dig.cmu.edu/). [Read this]({% post_url 2024-11-20-phd-application %}) if you want to apply for a PhD with me. -->
 
-I received my PhD from the [Paul G. Allen School](https://www.cs.washington.edu/) at the [University of Washington](https://www.washington.edu/), where I worked with [Jeff Heer](https://homes.cs.washington.edu/~jheer/) and [Bill Howe](https://homes.cs.washington.edu/~billhowe/) in the [Interactive Data Lab](http://idl.cs.washington.edu/) and the [Database Group](https://db.cs.washington.edu/).
+<!-- I'm a post-doctoral fellow at the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) and an ML researcher at [Apple](https://www.apple.com/) <i class="fab fa-apple"></i>. I design and build interactive systems for visualization and analysis. At CMU, I co-lead the [Data Interaction Group](https://dig.cmu.edu/). [Read this]({% post_url 2024-11-20-phd-application %}) if you want to apply for a PhD with me. -->
+<!-- I received my PhD from the [Paul G. Allen School](https://www.cs.washington.edu/) at the [University of Washington](https://www.washington.edu/), where I worked with [Jeff Heer](https://homes.cs.washington.edu/~jheer/) and [Bill Howe](https://homes.cs.washington.edu/~billhowe/) in the [Interactive Data Lab](http://idl.cs.washington.edu/) and the [Database Group](https://db.cs.washington.edu/). -->
 
 My systems have [won](https://vega.github.io/vega-lite/) [awards](https://uwdata.github.io/draco/) [at](https://arxiv.org/pdf/2110.12536) [premier](https://www.domoritz.de/papers/2023-LineBias-VIS.pdf) [academic](https://www.domoritz.de/papers/2023-AutoProfiler-VIS.pdf) [venues](https://arxiv.org/pdf/2404.03085) and are used by the [Python](https://altair-viz.github.io) and [JavaScript](https://vega.github.io/vega-lite/) data science communities.
 
@@ -23,7 +23,7 @@ Find me on [GitHub](https://github.com/domoritz), the [Fediverse](https://vis.so
 <picture>
   <source srcset='/images/pengzhu_photo.png' type='image/png' />
   <img
-    src='/images/pengzhu_photo.png'
+    src='/images/dominik_cmu.jpg'
     alt='Pengzhu Lin'>
 </picture>
 
