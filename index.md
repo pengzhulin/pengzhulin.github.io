@@ -19,17 +19,17 @@ Find me on [GitHub](https://github.com/pengzhulin), [LinkedIn](https://www.linke
   <source srcset='/images/pengzhu_photo.png' type='image/png' />
   <img
     src='/images/pengzhu_photo.png'
-    alt='Dominik Moritz'>
+    alt='Pengzhu Lin'>
 </picture>
 
 {:.no-list}
 * <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-* NSH 2504B
+* Room 4001, CYT Building
 </div>
 
 </div>
 
-During my first year at UW, I received support from the [Fulbright program](https://en.wikipedia.org/wiki/Fulbright_Program). In 2013, I received my B.S. from [Hasso Plattner Institute](https://hpi.de/). I am a scholar of the [German National Academic Foundation](http://www.studienstiftung.de/). I have worked with the [Open Knowledge Foundation](http://www.okfn.org), [Google Research](https://ai.google/research/), [Microsoft Research](https://www.microsoft.com/en-us/research/group/vibe/), and others. Details are in my [CV]({{ "/cv/" | relative_url }}).
+I have worked with the [Prof. T.S. Zhao](https://ai.google/research/), [Google Research](https://ai.google/research/), [Microsoft Research](https://www.microsoft.com/en-us/research/group/vibe/), and others. Details are in my [CV]({{ "/cv/" | relative_url }}).
 
 ## Featured <a href="{{ "/projects/" | relative_url }}">Projects</a>
 
