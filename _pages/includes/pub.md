@@ -3,7 +3,7 @@
 ## 🎙 Fuel cell
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/TOC_2024ACSEnergyLetters.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Artificial-intelligence-guided Design of Ordered Gas Diffusion Layers for High-performing Fuel Cells via Bayesian Machine Learning](https://www.researchsquare.com/article/rs-5235975/v1) \\
