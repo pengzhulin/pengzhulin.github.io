@@ -1,4 +1,4 @@
-# 🔥 Intro
+# 🧑 Intro
 Dr. Pengzhu Lin is now working as a post-doctoral fellow at the Hong Kong University of Science and Technology currently. He received his Ph.D. in Mechanical Engineering from the Hong Kong University of Science and Technology in 2024, and his M.S. and B.S. from Huazhong University of Science and Technology in 2020 and 2017. His research focuses on heat and mass transfer, energy storage, energy conversion, such as fuel cells and batteries, combining with artificial intelligence. He has published papers on top journals including Nature Communications, ACS Energy Letters, Applied Energy, International Journal of Heat and Mass transfer, etc.
 
 # 📖 Educations
