@@ -3,11 +3,11 @@
 ## 🎙 Fuel cell
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/TOC_2024ACSEnergyLetters.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOC</div><img src='images/TOC_2024ACSEnergyLetters.jpeg' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Artificial-intelligence-guided Design of Ordered Gas Diffusion Layers for High-performing Fuel Cells via Bayesian Machine Learning](https://www.researchsquare.com/article/rs-5235975/v1) \\
-[Quadrilateral-Patterned Perforated Gas Diffusion Layers Boost the Performance of Fuel Cells](https://pubs.acs.org/doi/10.1021/acsenergylett.4c00417?ref=pdf) \\
+[Artificial-intelligence-guided Design of Ordered Gas Diffusion Layers for High-performing Fuel Cells via Bayesian Machine Learning](https://www.researchsquare.com/article/rs-5235975/v1)
+[Quadrilateral-Patterned Perforated Gas Diffusion Layers Boost the Performance of Fuel Cells](https://pubs.acs.org/doi/10.1021/acsenergylett.4c00417?ref=pdf)
 
 <!-- **Yi Ren**, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu -->
 
