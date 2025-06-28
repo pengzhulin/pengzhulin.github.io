@@ -22,12 +22,12 @@ baidu_site_verification  : code-ZxFK3f4pfb
 # Site Author
 author:
   name             : "Pengzhu Lin"
-  avatar           : "images/ry_profile.jpeg"
+  avatar           : "images/pengzhu_photo.png"
   bio              : ""
   location         : "Hong Kong"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=FCkFPGgAAAAJ"
   email            : "plinai@connect.ust.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rayeren"
+  linkedin         : "Pengzhu Lin"
   dblp             : "https://dblp.org/pid/75/6568-6.html"
   orcid            : "https://orcid.org/0000-0002-9160-3848"
   pinterest        :
