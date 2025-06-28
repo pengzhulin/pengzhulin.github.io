@@ -1,9 +1,3 @@
-
-# 📖 Educations
-- *2020.07 - 2024.07*, Ph.D. in Mechanical Engineering, HKUST
-- *2017.09 - 2020.06*, M. Eng. in Thermal Engineering, HUST
-- *2013.09 - 2017.06*, B. Eng. in Energy and Power Engineering, HUST
-
 # 💬 Invited Talks
 <!-- - *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
 - *2021.06*, Audio & Speech Synthesis, Huawei internal talk
