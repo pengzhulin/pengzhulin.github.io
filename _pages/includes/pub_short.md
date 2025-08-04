@@ -15,8 +15,12 @@ My paper list is shown at [my personal homepage](https://scholar.google.com/cita
 - ``Angew`` [Engineering d-p Orbital Hybridization in a Single-Atom-Based Solid-State Electrolyte for Lithium-Metal Batteries](https://onlinelibrary.wiley.com/doi/10.1002/anie.202419367), Jiadong Shen, Junjie Chen, Xiaosa Xu, Jin Li, Zhenyu Wang, Yu Wang, **Pengzhu Lin**, Jing Sun, Baoling Huang, Tianshou Zhao. 
 - ``AM`` [Developing Quasi‐Solid‐State Ether‐Based Electrolytes with Trifluorotoluylation Ionic Liquids for High Voltage Lithium Metal Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501006), Jin Li, Junjie Chen, Xiaosa Xu, Jiadong Shen, Zhenyu Wang, Zixiao Guo, **Pengzhu Lin**, Jing Sun*, Baoling Huang*, Tianshou Zhao*. 
 
+#### Energy storage 
+(To be updated!)
+
 #### 📚 AI for Science
 (To be updated!)
+
 #### 🧑 Generative Model
 (To be updated!)
 
