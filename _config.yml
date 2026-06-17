@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Pengzhu Lin"
-description              : "Multiscale and AI-assisted modeling for Energy"
+title                    : "Pengzhu LIN"
+description              : "Multiscale and AI-assisted modeling for energy storage and conversion"
 repository               : "pengzhulin/pengzhulin.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,23 +21,23 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Pengzhu Lin"
+  name             : "Pengzhu LIN"
   avatar           : "images/pengzhu_photo.png"
-  bio              : ""
+  bio              : "Research Assistant Professor, HKUST MAE"
   location         : "Hong Kong"
-  employer         :
+  employer         : "The Hong Kong University of Science and Technology"
   pubmed           : 
-  googlescholar    : # "https://scholar.google.com/citations?user=FCkFPGgAAAAJ"
-  email            : "plinai@connect.ust.hk"
+  googlescholar    : "https://scholar.google.com/citations?user=FCkFPGgAAAAJ"
+  email            : "mepengzhul@ust.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://mae.hkust.edu.hk/en/people/faculty/detail/lin-pengzhu"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "pengzhulin"
+  github           : "pengzhulin"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : 
   dblp             : 
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0003-2154-8334"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

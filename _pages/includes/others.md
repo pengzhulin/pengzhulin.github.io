@@ -1,11 +1,26 @@
-<!-- # 💬 Invited Talks
-- Multi-scale and AI-assisted investigations of mass transport in proton exchange membrane fuel cells. Seminar of Department of Mechanical Engineering, City University of Hong Kong, Hong Kong SAR, China, Nov. 2024.
-- A multiscale model for proton exchange membrane fuel cells with order-structured catalyst layers. The 4th International Conference on Energy, Ecology and Environment, London, UK, Aug. 2023.
-- Design and optical analysis of a novel solar concentrator structure. The 4th China Solar Thermal Electricity Conference, Changzhou, China, Sep. 2018.
+<section class="home-section research-section" id="research">
+  <h2>Research Themes</h2>
+  <div class="research-grid">
+    <article class="research-item">
+      <h3>AI for Porous Electrodes</h3>
+      <p>Physics-informed and data-driven models for reconstructing, representing, and optimizing multiscale porous electrode structures.</p>
+    </article>
+    <article class="research-item">
+      <h3>Fuel Cell Transport</h3>
+      <p>Multiscale heat, mass, water, and charge transport in proton exchange membrane fuel cells, catalyst layers, and gas diffusion layers.</p>
+    </article>
+    <article class="research-item">
+      <h3>Batteries and Electrolyzers</h3>
+      <p>Modeling and design strategies for energy storage and conversion systems, including battery safety, interphases, and water electrolysis.</p>
+    </article>
+  </div>
+</section>
 
-
-# 💻 Internships
-- Internship, Energy Research Institute National Development and Reform Commission, Dec. 2016 – Jan. 2017.
-- Internship visit, Guangdong Energy Group Co., Ltd., 2016.
-- Internship visit, Hubei Xiangyang Power Generation Co., Ltd., 2015. -->
-
+<section class="home-section education-section" id="education">
+  <h2>Education</h2>
+  <ul class="timeline-list">
+    <li><span>2020.07 - 2024.07</span><strong>Ph.D. in Mechanical Engineering</strong>, The Hong Kong University of Science and Technology</li>
+    <li><span>2017.09 - 2020.06</span><strong>M.Eng. in Thermal Engineering</strong>, Huazhong University of Science and Technology</li>
+    <li><span>2013.09 - 2017.06</span><strong>B.Eng. in Energy and Power Engineering</strong>, Huazhong University of Science and Technology</li>
+  </ul>
+</section>
