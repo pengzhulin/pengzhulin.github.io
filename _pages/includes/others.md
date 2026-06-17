@@ -3,19 +3,15 @@
   <div class="research-grid">
     <article class="research-item">
       <h3>Energy Storage and Conversion</h3>
-      <p>Modeling, diagnosis, and design of electrochemical systems for efficient energy storage and conversion.</p>
     </article>
     <article class="research-item">
       <h3>Fuel Cell and Electrolyzer Technology</h3>
-      <p>Multiscale analysis and optimization of components, materials, and operating strategies in fuel cells and electrolyzers.</p>
     </article>
     <article class="research-item">
       <h3>Heat and Mass Transport</h3>
-      <p>Transport phenomena across porous electrodes, catalyst layers, membranes, and device-scale energy systems.</p>
     </article>
     <article class="research-item">
       <h3>AI for Science</h3>
-      <p>Data-driven and physics-informed methods for accelerated materials discovery and structure-performance optimization.</p>
     </article>
   </div>
 </section>

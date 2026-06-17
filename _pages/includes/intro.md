@@ -1,6 +1,5 @@
 <section class="intro-section" id="about-me">
   <div class="intro-copy">
-    <h1>Pengzhu LIN <span class="name-cn">林鵬翥</span></h1>
     <p class="role-line">Research Assistant Professor, Department of Mechanical and Aerospace Engineering, HKUST</p>
     <p>
       I am a Research Assistant Professor in the
