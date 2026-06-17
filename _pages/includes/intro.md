@@ -1,5 +1,6 @@
 <section class="intro-section" id="about-me">
   <div class="intro-copy">
+    <h2>About</h2>
     <p>
       I am a Research Assistant Professor in the
       <a href="https://mae.hkust.edu.hk/en/people/faculty/detail/lin-pengzhu">Department of Mechanical and Aerospace Engineering</a>
