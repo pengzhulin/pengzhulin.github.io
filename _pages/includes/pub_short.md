@@ -78,6 +78,7 @@
   <div class="year-block">
     <h3>2026</h3>
     <ol class="compact-publications">
+      <li><strong>Interfacial catalysis in lithium salt decomposition: Impacts on lithium metal battery performance.</strong> <span>Future Batteries, 9, Article 100155.</span></li>
       <li><strong>Electrode Net: tailoring deep learning with signed distance field for fast and accurate multiscale design of porous electrodes.</strong> <span>Science Bulletin, 71(1), 137-147.</span></li>
       <li><strong>Interfacial resistance and electric field modulation at the Nafion membrane-electrolyte interface in vanadium redox flow batteries.</strong> <span>International Journal of Heat and Mass Transfer, 264, Article 128766.</span></li>
       <li><strong>Single-atom catalyzed formation of inorganic-rich SEI/CEI for durable anode-free solid-state lithium metal batteries.</strong> <span>Energy and Environmental Science, 19(1), 284-298.</span></li>
@@ -114,28 +115,6 @@
     <ol class="compact-publications">
       <li><strong>A multiscale model for proton exchange membrane fuel cells with order-structured catalyst layers.</strong> <span>International Journal of Heat and Mass Transfer, 195, Article 123092.</span></li>
       <li><strong>Modeling proton exchange membrane fuel cells with fiber-based microporous layers.</strong> <span>International Journal of Heat and Mass Transfer, 198, Article 123398.</span></li>
-    </ol>
-  </div>
-
-  <div class="year-block">
-    <h3>2021</h3>
-    <ol class="compact-publications">
-      <li><strong>光谱选择透过性对聚光太阳能热化学循环性能的影响.</strong> <span>Journal of Tsinghua University, 61(12), 1389-1396.</span></li>
-    </ol>
-  </div>
-
-  <div class="year-block">
-    <h3>2020</h3>
-    <ol class="compact-publications">
-      <li><strong>Rapid oxide sintering by concentrated solar power: A case study of lanthanum calcium ferrite.</strong> <span>Ceramics International, 46(4), 5465-5468.</span></li>
-      <li><strong>太陽能甲烷重整熱化學互補發電系統性能研究.</strong> <span>Journal of Engineering Thermophysics, 41(2), 261-265.</span></li>
-    </ol>
-  </div>
-
-  <div class="year-block">
-    <h3>2019</h3>
-    <ol class="compact-publications">
-      <li><strong>Ultrahigh temperature processing by concentrated solar energy with accurate temperature measurement.</strong> <span>Applied Thermal Engineering, 150, 1337-1344.</span></li>
     </ol>
   </div>
 </section>

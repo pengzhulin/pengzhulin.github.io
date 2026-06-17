@@ -19,8 +19,17 @@
 <section class="home-section education-section" id="education">
   <h2>Education</h2>
   <ul class="timeline-list">
-    <li><span>2020.07 - 2024.07</span><strong>Ph.D. in Mechanical Engineering</strong>, The Hong Kong University of Science and Technology</li>
-    <li><span>2017.09 - 2020.06</span><strong>M.Eng. in Thermal Engineering</strong>, Huazhong University of Science and Technology</li>
-    <li><span>2013.09 - 2017.06</span><strong>B.Eng. in Energy and Power Engineering</strong>, Huazhong University of Science and Technology</li>
+    <li>
+      <span>2020.07 - 2024.07</span>
+      <div class="timeline-entry"><strong>Ph.D. in Mechanical Engineering</strong>, The Hong Kong University of Science and Technology</div>
+    </li>
+    <li>
+      <span>2017.09 - 2020.06</span>
+      <div class="timeline-entry"><strong>M.Eng. in Thermal Engineering</strong>, Huazhong University of Science and Technology</div>
+    </li>
+    <li>
+      <span>2013.09 - 2017.06</span>
+      <div class="timeline-entry"><strong>B.Eng. in Energy and Power Engineering</strong>, Huazhong University of Science and Technology</div>
+    </li>
   </ul>
 </section>
