@@ -129,17 +129,12 @@ body.home .masthead__inner-wrap {
     padding: 0 32px;
 }
 
-body.home .greedy-nav {
+body.home .site-nav {
     min-width: 0;
     background: #fff;
 }
 
-body.home .greedy-nav button,
-body.home .greedy-nav .hidden-links {
-    display: none;
-}
-
-body.home .greedy-nav .visible-links {
+body.home .site-nav .visible-links {
     display: flex;
     align-items: center;
     flex-wrap: wrap;
@@ -156,11 +151,11 @@ body.home .masthead__menu-item--lg {
     font-weight: 500;
 }
 
-body.home .greedy-nav .visible-links li:first-child a {
+body.home .site-nav .visible-links li:first-child a {
     margin-left: 0;
 }
 
-body.home .greedy-nav a {
+body.home .site-nav a {
     margin: 0 0 0 18px;
     padding: 14px 0 8px;
     color: #454545;
@@ -171,7 +166,7 @@ body.home .greedy-nav a {
     opacity: 0.78;
 }
 
-body.home .greedy-nav .masthead__menu-item--lg a {
+body.home .site-nav .masthead__menu-item--lg a {
     margin: 0;
     color: #333;
     font-size: 1.45rem;
@@ -179,11 +174,11 @@ body.home .greedy-nav .masthead__menu-item--lg a {
     opacity: 1;
 }
 
-body.home .greedy-nav a:before {
+body.home .site-nav a:before {
     display: none;
 }
 
-body.home .greedy-nav a:hover {
+body.home .site-nav a:hover {
     color: #113970;
     border-bottom-color: #113970;
     text-decoration: none;
@@ -328,8 +323,13 @@ body.home .page__content h3 {
     scroll-margin-top: 86px;
 }
 
-#about-me {
+body.home .page__content #about-me {
+    margin-top: 0;
     scroll-margin-top: 86px;
+}
+
+body.home .page__content #about-me:before {
+    display: none;
 }
 
 .news-list {
@@ -516,7 +516,7 @@ body.home .page__content h3 {
         padding-left: 20px;
     }
 
-    body.home .greedy-nav .visible-links {
+    body.home .site-nav .visible-links {
         justify-content: center;
     }
 
@@ -527,8 +527,8 @@ body.home .page__content h3 {
         text-align: center;
     }
 
-    body.home .greedy-nav a,
-    body.home .greedy-nav .masthead__menu-item--lg a {
+    body.home .site-nav a,
+    body.home .site-nav .masthead__menu-item--lg a {
         margin: 0 8px;
     }
 
