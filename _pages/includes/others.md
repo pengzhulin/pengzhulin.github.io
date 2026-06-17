@@ -1,21 +1,3 @@
-<section class="home-section research-section" id="research">
-  <h2>Research Themes</h2>
-  <div class="research-grid">
-    <article class="research-item">
-      <h3>Energy Storage and Conversion</h3>
-    </article>
-    <article class="research-item">
-      <h3>Fuel Cell and Electrolyzer Technology</h3>
-    </article>
-    <article class="research-item">
-      <h3>Heat and Mass Transport</h3>
-    </article>
-    <article class="research-item">
-      <h3>AI for Science</h3>
-    </article>
-  </div>
-</section>
-
 <section class="home-section education-section" id="education">
   <h2>Education</h2>
   <ul class="timeline-list">

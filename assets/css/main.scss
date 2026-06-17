@@ -461,26 +461,6 @@ body.home .page__content #about-me:before {
     font-weight: 600;
 }
 
-.research-grid {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 1rem;
-}
-
-.research-item {
-    display: flex;
-    min-height: 5.5rem;
-    align-items: center;
-    padding: 1rem 1.1rem;
-    border: 1px solid #dedede;
-    border-radius: 6px;
-}
-
-.research-item h3 {
-    margin: 0;
-    color: #113970;
-}
-
 .timeline-list {
     margin: 0;
     padding: 0;
@@ -542,9 +522,6 @@ body.home .page__content #about-me:before {
         width: 220px;
     }
 
-    .research-grid {
-        grid-template-columns: 1fr;
-    }
 }
 
 @media screen and (max-width: 620px) {

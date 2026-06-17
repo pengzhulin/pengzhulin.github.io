@@ -5,9 +5,6 @@ main:
   - title: "Publications"
     url: "/#publications"
 
-  - title: "Research"
-    url: "/#research"
-
   - title: "CV"
     url: "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=pengzhu-lin-mepengzhul"
     external: true
