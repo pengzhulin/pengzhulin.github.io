@@ -2,10 +2,12 @@
   <h2>Featured Publications</h2>
 
   <article class="publication">
-    <div class="publication-teaser teaser-ai">AI-GDL</div>
+    <div class="publication-teaser teaser-image">
+      <img src="{{ '/images/featured_nature_communications.png' | relative_url }}" alt="AI-guided gas diffusion layer design research teaser">
+    </div>
     <div class="publication-content">
       <h3>Artificial-intelligence-guided design of ordered gas diffusion layers for high-performing fuel cells via Bayesian machine learning</h3>
-      <p class="authors">Jing Sun, <strong>Pengzhu Lin</strong>, Lin Zeng, Zixiao Guo, Yuting Jiang, Cailin Xiao, Qinping Jian, Jiayou Ren, Lyuming Pan, Xiaosa Xu, Zheng Li, Lei Wei, and Tianshou Zhao</p>
+      <p class="authors">Jing Sun, <strong><u>Pengzhu Lin</u></strong>, Lin Zeng, Zixiao Guo, Yuting Jiang, Cailin Xiao, Qinping Jian, Jiayou Ren, Lyuming Pan, Xiaosa Xu, Zheng Li, Lei Wei, and Tianshou Zhao</p>
       <p class="venue"><em>Nature Communications</em>, 16, Article 6528, 2025.</p>
       <p class="publication-links">
         <a href="https://doi.org/10.1038/s41467-025-61794-y">DOI</a>
@@ -20,7 +22,7 @@
     </div>
     <div class="publication-content">
       <h3>Quadrilateral-patterned perforated gas diffusion layers boost the performance of fuel cells</h3>
-      <p class="authors"><strong>Pengzhu Lin</strong>, Jing Sun, Changxiang He, Maochun Wu, and Tianshou Zhao</p>
+      <p class="authors"><strong><u>Pengzhu Lin</u></strong>, Jing Sun, Changxiang He, Maochun Wu, and Tianshou Zhao</p>
       <p class="venue"><em>ACS Energy Letters</em>, 9(4), 1710-1716, 2024.</p>
       <p class="publication-links">
         <a href="https://doi.org/10.1021/acsenergylett.4c00417">DOI</a>
@@ -30,10 +32,12 @@
   </article>
 
   <article class="publication">
-    <div class="publication-teaser teaser-sdf">SDF</div>
+    <div class="publication-teaser teaser-image">
+      <img src="{{ '/images/featured_science_bulletin.png' | relative_url }}" alt="Electrode Net porous electrode research teaser">
+    </div>
     <div class="publication-content">
       <h3>Electrode Net: tailoring deep learning with signed distance field for fast and accurate multiscale design of porous electrodes</h3>
-      <p class="authors"><strong>Pengzhu Lin</strong>, Jing Sun, Yinglun Tang, Jiayou Ren, Xiaosa Xu, Jin Li, Changxiang He, Shuaibin Wan, Wenjia Li, and Tianshou Zhao</p>
+      <p class="authors"><strong><u>Pengzhu Lin</u></strong>, Jing Sun, Yinglun Tang, Jiayou Ren, Xiaosa Xu, Jin Li, Changxiang He, Shuaibin Wan, Wenjia Li, and Tianshou Zhao</p>
       <p class="venue"><em>Science Bulletin</em>, 71(1), 137-147, 2026.</p>
       <p class="publication-links">
         <a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=pengzhu-lin-mepengzhul">HKUST Profile</a>
@@ -43,10 +47,12 @@
   </article>
 
   <article class="publication">
-    <div class="publication-teaser teaser-pgm">PGM-free</div>
+    <div class="publication-teaser teaser-image">
+      <img src="{{ '/images/featured_applied_energy.png' | relative_url }}" alt="PGM-free catalyst fuel cell modeling research teaser">
+    </div>
     <div class="publication-content">
       <h3>Modeling proton exchange membrane fuel cells with platinum-group-metal-free catalysts</h3>
-      <p class="authors"><strong>Pengzhu Lin</strong>, Jing Sun, Changxiang He, Maochun Wu, and Tianshou Zhao</p>
+      <p class="authors"><strong><u>Pengzhu Lin</u></strong>, Jing Sun, Changxiang He, Maochun Wu, and Tianshou Zhao</p>
       <p class="venue"><em>Applied Energy</em>, 360, Article 122765, 2024.</p>
       <p class="publication-links">
         <a href="https://www.sciencedirect.com/science/article/pii/S030626192400148X">Publisher</a>
@@ -56,10 +62,12 @@
   </article>
 
   <article class="publication">
-    <div class="publication-teaser teaser-model">Multiscale</div>
+    <div class="publication-teaser teaser-image">
+      <img src="{{ '/images/featured_ijhmt.png' | relative_url }}" alt="Multiscale fuel cell catalyst layer model research teaser">
+    </div>
     <div class="publication-content">
       <h3>A multiscale model for proton exchange membrane fuel cells with order-structured catalyst layers</h3>
-      <p class="authors"><strong>Pengzhu Lin</strong>, Jing Sun, Maochun Wu, and Tianshou Zhao</p>
+      <p class="authors"><strong><u>Pengzhu Lin</u></strong>, Jing Sun, Maochun Wu, and Tianshou Zhao</p>
       <p class="venue"><em>International Journal of Heat and Mass Transfer</em>, 195, Article 123092, 2022.</p>
       <p class="publication-links">
         <a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=pengzhu-lin-mepengzhul">HKUST Profile</a>
