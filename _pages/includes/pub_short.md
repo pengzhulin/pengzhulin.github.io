@@ -117,4 +117,26 @@
       <li><strong>Modeling proton exchange membrane fuel cells with fiber-based microporous layers.</strong> <span>International Journal of Heat and Mass Transfer, 198, Article 123398.</span></li>
     </ol>
   </div>
+
+  <div class="year-block">
+    <h3>2021</h3>
+    <ol class="compact-publications">
+      <li><strong>Effect of spectral selective transmittance on the performance of concentrated solar thermochemical cycles.</strong> <span>Journal of Tsinghua University, 61(12), 1389-1396.</span></li>
+    </ol>
+  </div>
+
+  <div class="year-block">
+    <h3>2020</h3>
+    <ol class="compact-publications">
+      <li><strong>Rapid oxide sintering by concentrated solar power: A case study of lanthanum calcium ferrite.</strong> <span>Ceramics International, 46(4), 5465-5468.</span></li>
+      <li><strong>Performance study of a solar methane reforming thermochemical complementary power generation system.</strong> <span>Journal of Engineering Thermophysics, 41(2), 261-265.</span></li>
+    </ol>
+  </div>
+
+  <div class="year-block">
+    <h3>2019</h3>
+    <ol class="compact-publications">
+      <li><strong>Ultrahigh temperature processing by concentrated solar energy with accurate temperature measurement.</strong> <span>Applied Thermal Engineering, 150, 1337-1344.</span></li>
+    </ol>
+  </div>
 </section>
